@@ -1,0 +1,142 @@
+.wrapper{
+}
+
+.Filter_Nav_Rectangle {
+  width: 1599px;
+  height: 106.9px;
+  opacity: 0.5;
+  background-image: linear-gradient(to bottom, rgba(233, 135, 50, 0.9), #040404);
+}
+
+.DOYER_STADIUM {
+  width: 1598px;
+  height: 1000px;
+  opacity: 0.9;
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13M0QCAE/backgroud_1.png");
+}
+
+.Blue_Divider1 {
+  width: 1600px;
+  height: 55px;
+  opacity: 0.8;
+  background-color: #126fb1;
+}
+
+.Blue_Divider2 {
+  width: 1600px;
+  height: 55px;
+  background-color: #4c93c4;
+}
+
+.Blue_Divider3 {
+  width: 1599px;
+  height: 55px;
+  background-color: #126fb1;
+}
+
+.Blue_Divider4 {
+  width: 1600px;
+  height: 55px;
+  background-color: #126fb1;
+}
+
+.Blue_Divider {
+  width: 1599px;
+  height: 55px;
+  background-color: #126fb1;
+}
+
+.Rectangle-266 {
+  width: 1600px;
+  height: 115px;
+  opacity: 0.5;
+  background-image: linear-gradient(to bottom, #f77b00, #000000);
+}
+
+.FANBOXO_BASEBALL {
+  width: 1595px;
+  height: 886px;
+  -webkit-filter: blur(4px);
+  filter: blur(4px);
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13LP69DM/background_2.png");
+}
+
+.Mask {
+  width: 1600px;
+  height: 675px;
+  background-color: #d8d8d8;
+}
+
+.Masked_Rectangle {
+  width: 1600px;
+  height: 115px;
+  opacity: 0.5;
+  background-image: linear-gradient(to bottom, #f77b00, #000000);
+}
+
+.Hot_Line_Bling {
+  width: 1600px;
+  height: 998px;
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13M0NZ5Y/background_3.jpg");
+}
+
+.Boy_Pitching {
+  width: 1600px;
+  height: 804px;
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13LUTY65/background_4.jpg");
+}
+
+.Filter_Footer {
+  width: 1600px;
+  height: 194px;
+  opacity: 0.7;
+  background-image: linear-gradient(to bottom, #f77b00, #ffffff);
+  border: solid 1px #979797;
+}
+
+
+.Whats-in-the-Box {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  letter-spacing: 6.5px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.How-it-Works {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  letter-spacing: 6.5px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.Pricing {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  letter-spacing: 6.3px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.Sign-Up {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  letter-spacing: 6.3px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.logo {
+  width: 218px;
+  height: 144px;
+  position: relative;
+  top: -3.4em;
+
+}
+
+
