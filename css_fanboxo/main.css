@@ -26,35 +26,35 @@ p.How-it-Works{
 p.Sign-Up{
   margin: 0 auto;
 }
-.Blue_Divider1 {
+.orange_divider1 {
   width: 1600px;
   height: 55px;
   opacity: 0.8;
-  background-color: #126fb1;
+  background-color: #f9a800;
 }
 
-.Blue_Divider2 {
+.orange_divider2 {
   width: 1600px;
   height: 55px;
   background-color: #4c93c4;
 }
 
-.Blue_Divider3 {
+.orange_divider3 {
   width: 1599px;
   height: 55px;
-  background-color: #126fb1;
+  background-color: #f9a800;
 }
 
-.Blue_Divider4 {
+.orange_divider4 {
   width: 1600px;
   height: 55px;
-  background-color: #126fb1;
+  background-color: #f9a800;
 }
 
-.Blue_Divider {
+.orange_divider {
   width: 1599px;
   height: 55px;
-  background-color: #126fb1;
+  background-color: #f9a800;
 }
 
 .Rectangle-266 {
@@ -69,7 +69,7 @@ p.Sign-Up{
   height: 886px;
   /*-webkit-filter: blur(4px);*/
  /* filter: blur(4px);*/
-  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F140U2QPJ/fanboxo_baseball_bg.jpg");
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F14109UMD/fanboxo_baseball_official.png");
 }
 
 .Mask {
