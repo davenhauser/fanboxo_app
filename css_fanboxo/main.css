@@ -15,6 +15,17 @@
   background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13M0QCAE/backgroud_1.png");
 }
 
+p.Whats-in-the-Box{
+margin: 0 auto;
+}
+
+p.How-it-Works{
+  margin: 0 auto;
+}
+
+p.Sign-Up{
+  margin: 0 auto;
+}
 .Blue_Divider1 {
   width: 1600px;
   height: 55px;
@@ -314,11 +325,7 @@ top: 3em;
 .big-circle-wrap{
 position: relative;
 top: 2em;
-left: 24em;
-/*left: 24em;
-top: 2em;*/
-/*left: 24em;
-top: 3em;*/
+left: 8em;
 }
 
 .big-circle  {
@@ -327,5 +334,50 @@ top: 3em;*/
   border-radius: 50%;
   width: 235px;
   height: 235px;
+  margin-left: 139px;
+}
+
+.text-wrap{
+position: relative;
+top: 2em;
+left: 3em;
+}
+
+.big-text-wrap{
+position: relative;
+top: 2em;
+left: 3em;
+}
+
+.steps{
+width: 155.4px;
+height: 47px;
+font-family: Futura-Medium;
+font-size: 36px;
+color: #ffffff;
+position: relative;
+top: 0.5em;
+margin-left: 310px;
+}
+
+.block{
+display: block;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.steps2{
+width: 223.1px;
+height: 141px;
+font-family: Futura-Medium;
+font-size: 36px;
+color: #ffffff;
+position: relative;
+top: 1.8em;
+margin-left: 310px;
 }
 
