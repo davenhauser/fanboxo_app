@@ -211,3 +211,61 @@
   top: -2em;
   left: 1em;
 }
+
+.Official-Los-Angeles {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  color: #ffffff;
+  position: relative;
+  top: -9em;
+  left: 4.7em;
+}
+
+.Delivered-Monthly {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  line-height: 0.4;
+  color: #ffffff;
+  position: relative;
+  top: -9.5em;
+  left: 4.7em;
+}
+
+.A-Monthly-Mystery-Box {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  line-height: 0.5;
+  letter-spacing: -0.2px;
+  color: #ffffff;
+  position: relative;
+  top: -11.5em;
+  left: 6.3em;
+}
+
+.Free-Shipping {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  line-height: 0.5;
+  color: #ffffff;
+  position: relative;
+  top: -11.5em;
+  left: 6.3em;
+}
+
+.No-Commitment {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  line-height: 0.5;
+  color: #ffffff;
+  position: relative;
+  top: -11.5em;
+  left: 6.3em;
+}
+
+.FANBOXO_DODGERS {
+  width: 730px;
+  height: 753px;
+  position: relative;
+  left: 48em;
+  top: -43em;
+}
