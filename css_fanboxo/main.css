@@ -69,7 +69,7 @@ p.Sign-Up{
   height: 886px;
   /*-webkit-filter: blur(4px);*/
  /* filter: blur(4px);*/
-  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13LP69DM/background_2.png");
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F140U2QPJ/fanboxo_baseball_bg.jpg");
 }
 
 .Mask {
@@ -366,18 +366,17 @@ display: block;
 
 .container {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
 }
 
 .steps2{
-width: 223.1px;
+width: 340.1px;
 height: 141px;
 font-family: Futura-Medium;
 font-size: 36px;
 color: #ffffff;
 position: relative;
 top: 1.8em;
-margin-left: 310px;
+left: 7em;
+margin-left: 50px;
 }
 
